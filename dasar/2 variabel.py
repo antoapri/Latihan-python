@@ -1,0 +1,9 @@
+a=10
+b=5
+c=a
+print ("nilai a=",a)
+print ("nilai b=",b)
+print ("penjumlahan=",a+b)
+print ("pengurangan=",a-b)
+print ("perkalian=",a*b)
+print ("perkalian=",a*c)
